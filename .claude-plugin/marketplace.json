@@ -1,0 +1,12 @@
+{
+  "name": "ahead",
+  "owner": { "name": "AHEAD Automotive GmbH" },
+  "plugins": [
+    {
+      "name": "secret-file-guard",
+      "source": "./plugins/secret-file-guard",
+      "description": "Refuses shell commands that would read a credential file into the transcript.",
+      "version": "0.1.0"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "secret-file-guard",
+  "version": "0.1.0",
+  "description": "Refuses shell commands that would read a credential file into the transcript.",
+  "author": { "name": "AHEAD Automotive GmbH" }
+}
